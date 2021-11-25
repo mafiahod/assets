@@ -1,0 +1,11 @@
+{
+    "name": "VEMO coin",
+    "type": "BEP20",
+    "symbol": "VEMO",
+    "decimals": 9,
+    "website": "https://vemo.world/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xc8874377aB1Fd172bC4B0Ed672a188bdAC1F20ca",
+    "status": "active",
+    "id": "0xc8874377aB1Fd172bC4B0Ed672a188bdAC1F20ca"
+}
